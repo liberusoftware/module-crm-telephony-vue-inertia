@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-telephony-vue-inertia",
+  "capabilityKey": "liberusoftware/module-crm-telephony",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-crm-telephony-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/crm/nextjs/telephony.md",
+  "presentationPlan": "projects/crm/vue/telephony.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
